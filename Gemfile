@@ -25,6 +25,7 @@ gem 'bootstrap-sass'
 gem 'puma'
 gem 'devise', '~>3.5.3'
 gem 'paperclip', '~>4.3'
+gem 'aws-sdk', '~>2.2.8'
 #~> means anything above this version is okay
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
