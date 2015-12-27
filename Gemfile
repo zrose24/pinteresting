@@ -25,6 +25,9 @@ gem 'devise', '~>3.5.3'
 gem 'paperclip', '~>4.3'
 gem 'aws-sdk', '< 2.0'
 gem 'masonry-rails'
+## Gemfile for Rails 3+, Sinatra, and Merb
+gem 'will_paginate', '~> 3.0.6'
+gem 'will_paginate-bootstrap'
 
 #~> means anything above this version is okay
 # Use ActiveModel has_secure_password
